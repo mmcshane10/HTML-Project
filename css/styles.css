@@ -2,11 +2,27 @@ h2 {
   margin-bottom: 5px;
 }
 
+h3 {
+  text-align: center;
+}
+
+strong {
+  color: navy;
+}
+
 img {
   height: 400px;
   margin: 10px;
   padding: 5px;
   border: solid black 2px;
+}
+
+a {
+  vertical-align: text-bottom;
+}
+
+.links {
+  text-align: center;
 }
 
 .jumbotron {
@@ -15,4 +31,9 @@ img {
 
 .jumbotron p {
   font-size: 20px;
+}
+
+.col-md-4 {
+  height: 200px;
+  text-align: center;
 }
